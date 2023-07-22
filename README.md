@@ -1,6 +1,6 @@
 
 ### I am a Microsoft certified Azure Solutions Architect, having proficiency in full stack development! 👨‍💻🚀
-
+####
 🚀 Code magician by day, dreamer by night ✨
 ####
 👋 Hello, fellow coders and curious minds! I'm the alchemist of algorithms, the sorcerer of syntax, and the architect of awe-inspiring code. From crafting captivating applications to conjuring elegant solutions, I thrive on turning ideas into reality.
