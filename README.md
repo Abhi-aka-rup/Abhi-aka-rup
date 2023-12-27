@@ -1,5 +1,5 @@
 
-### I am a Microsoft certified Azure Solutions Architect, having proficiency in full stack development! 👨‍💻🚀
+### I am a Microsoft certified Azure Solutions Architect and AWS Developer Associate, having proficiency in full stack development! 👨‍💻🚀
 ####
 🚀 Code magician by day, dreamer by night ✨
 ####
